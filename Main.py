@@ -80,4 +80,4 @@ async def kickall(ctx):
 
 # making the client run
 client.run(
-  "MTA3NTY4MTY3MzE5NjM0NzQxNA.GrfqmP.9jsi4P3T5lMUpV8nHAY8_I3dbf7hPVUgkF0UCQ")
+  "Your bot token here")
